@@ -1,0 +1,91 @@
+# Política de Accesibilidad Digital  
+*Entidad Pública - Plantilla Base*
+
+## 🧭 Resumen Ejecutivo
+
+La presente política tiene como objetivo garantizar la accesibilidad digital en todos los servicios, portales y sistemas informáticos de la entidad pública, conforme a los lineamientos de inclusión establecidos en la normativa nacional y los estándares internacionales. Se busca promover un entorno digital inclusivo, eliminando barreras que impidan el acceso a personas con discapacidad, adultos mayores, personas con baja alfabetización digital y otros grupos en condición de vulnerabilidad.
+
+Este documento establece principios, responsabilidades y mecanismos de implementación que permitirán la adopción progresiva de buenas prácticas en desarrollo, diseño, adquisición y publicación de contenidos digitales accesibles.
+
+## ⚖️ Marco Normativo Aplicable
+
+- [Ley 1341 de 2009](https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=36519) – TIC como herramienta de inclusión
+- [Ley 1618 de 2013](https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=52098) – Derechos de personas con discapacidad
+- [Decreto 1008 de 2018](https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=88994) – Accesibilidad web en entidades públicas
+- [Decreto 1078 de 2015](https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=74420) – Decreto Único del Sector TIC
+- [Estándar WCAG 2.1](https://www.w3.org/TR/WCAG21/)
+- [ISO/IEC 30071-1:2019](https://www.iso.org/standard/70904.html) – Ingeniería de accesibilidad
+
+## 💡 Principios de Accesibilidad Adoptados
+
+- **Perceptibilidad**: La información debe presentarse de manera que los usuarios puedan percibirla fácilmente.
+- **Operabilidad**: Todos los componentes deben ser operables a través de múltiples métodos (teclado, voz, etc.).
+- **Comprensibilidad**: El contenido y las interfaces deben ser fáciles de entender.
+- **Robustez**: El contenido debe ser interpretado de forma confiable por una amplia variedad de tecnologías de asistencia.
+
+## 🎯 Objetivos Específicos de la Política
+
+1. Adoptar estándares técnicos de accesibilidad web en el desarrollo de portales y sistemas.
+2. Capacitar al talento humano en accesibilidad digital.
+3. Incluir criterios de accesibilidad en procesos de contratación pública.
+4. Realizar auditorías internas de accesibilidad cada año.
+5. Fomentar una cultura organizacional incluyente e interoperable.
+
+## 🎯 Alcance
+
+Esta política aplica a:
+- Todos los sitios web, aplicaciones y contenidos digitales institucionales.
+- Servicios digitales prestados por terceros bajo contrato.
+- Contenidos audiovisuales, documentos electrónicos y formularios en línea.
+- Áreas responsables de tecnología, comunicación, servicio al ciudadano y compras públicas.
+
+## 🧑‍💼 Roles y Responsabilidades
+
+| Rol | Responsabilidad Principal |
+|-----|---------------------------|
+| Alta Dirección | Aprobar y patrocinar la política |
+| Oficina TIC | Implementar estándares técnicos |
+| Comunicaciones | Garantizar la accesibilidad de contenidos |
+| Talento Humano | Formar y sensibilizar al personal |
+| Contratación | Incluir cláusulas de accesibilidad en los contratos |
+| Oficina Jurídica | Verificar cumplimiento normativo |
+
+## 🔄 Procedimiento de Adopción y Aprobación
+
+1. **Formulación**: Coordinada por la Oficina TIC con insumos de todas las dependencias.
+2. **Socialización**: Circulación del borrador para observaciones internas.
+3. **Validación**: Revisión técnica y legal por parte de las oficinas competentes.
+4. **Aprobación**: Presentación ante el Comité Institucional y Alta Dirección.
+5. **Publicación**: Carga en el sitio web y divulgación a través de canales oficiales.
+
+<!-- Puede adaptarse a los procesos internos definidos por el manual de políticas institucionales -->
+
+## 🚀 Plan de Implementación
+
+- **Fase 1**: Diagnóstico de accesibilidad actual
+- **Fase 2**: Capacitación interna en WCAG y normativa nacional
+- **Fase 3**: Aplicación de accesibilidad en nuevos desarrollos web
+- **Fase 4**: Auditoría y ajustes
+- **Fase 5**: Reporte público de cumplimiento
+
+## 📈 Mecanismos de Monitoreo y Mejora Continua
+
+- Indicadores de cumplimiento en el FURAG (ítems de accesibilidad digital)
+- Auditorías semestrales usando herramientas automáticas y pruebas con usuarios
+- Comité de Accesibilidad como instancia de seguimiento
+- Revisión anual de la política
+
+## 📚 Recursos de Referencia
+
+- [Guía para la accesibilidad web - MinTIC](https://mintic.gov.co/portal/inicio/Servicios/Guia-Accesibilidad-Web/)
+- [WCAG 2.1 en español (W3C)](https://www.w3.org/Translations/WCAG21-es/)
+- [ISO 30071-1:2019](https://www.iso.org/standard/70904.html)
+- [Observatorio de Accesibilidad Web (España)](https://accesibilidadweb.es/)
+
+---
+
+**Fecha de creación:** [dd/mm/aaaa]  
+**Revisión programada:** [dd/mm/aaaa + 12 meses]
+
+<!-- Personaliza estos campos según el calendario institucional -->
+
