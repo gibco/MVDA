@@ -101,6 +101,12 @@ Para preguntas sobre implementación o sugerencias de mejora, por favor:
 
 `accesibilidad-digital` `colombia` `wcag` `pdf-accesible` `documentos-oficina` `inclusion-digital` `mintic` `gobierno-digital`
 
+
+![Licencia](https://img.shields.io/badge/Licencia-CC%20BY%204.0-lightgrey.svg)
+![Contribuciones](https://img.shields.io/badge/Contribuciones-Bienvenidas-brightgreen.svg)
+![WCAG](https://img.shields.io/badge/WCAG-2.1%20AA-blue.svg)
+![Colombia](https://img.shields.io/badge/Colombia-Normativa%20Local-yellow.svg)
+
 ---
 
 **Nota importante**: Este modelo es una herramienta de apoyo y no sustituye la asesoría especializada en accesibilidad digital. Se recomienda validar la implementación con expertos en la materia.
