@@ -1,4 +1,4 @@
-# Modelo de Declaración Voluntaria de Accesibilidad Digital - Colombia
+# Modelo de Declaración Voluntaria de Accesibilidad Digital (MVDA) - Colombia
 
 Este repositorio proporciona un modelo editable y reutilizable de **Declaración Voluntaria de Accesibilidad Digital** para entidades públicas y privadas en Colombia, aplicable tanto a sitios web como a documentos electrónicos creados en ambientes ofimáticos.
 
