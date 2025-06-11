@@ -14,7 +14,7 @@ Orientar a entidades públicas en la creación, validación y publicación de un
 ## 🧰 Requisitos Previos
 
 - Normativa base:
-  - Acuerdo AGN 002 de 2004
+  - Acuerdo AGN 001 de 2025
   - WCAG 2.1 nivel AA
   - Resolución 1519 de 2020
 - Herramientas:
