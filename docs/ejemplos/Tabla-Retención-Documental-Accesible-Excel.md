@@ -10,7 +10,7 @@ Orientar a entidades públicas en la creación, validación y publicación de un
 
 - 🧩 **Normativa base**:
   - Ley 594 de 2000 (Ley General de Archivos)
-  - Acuerdo AGN 002 de 2004
+  - Acuerdo AGN 001 de 2025
   - Resolución 1519 de 2020 (Gobierno Digital)
   - WCAG 2.1 nivel AA
 - 🛠️ **Herramientas**:
